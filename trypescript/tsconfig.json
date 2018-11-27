@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./transcompiled",
+        "target": "es5",
+        "watch": true
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
